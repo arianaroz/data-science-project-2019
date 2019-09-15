@@ -34,8 +34,11 @@ We will also need to determine how to join the datasets, identifying the most ap
 **Analysis Techniques:**
 
 In this project we plan on using several techniques to explore and analyse the data. We plan on using visualisation techniques to present the data in digestible graphs with analysis. Several modelling techniques including, Clustering algorithms to find patterns in the data to show grouping and Logistic regression to predict categorical outcomes e.g. Can we predict a films success? We will also apply several predictive algorithms to train and test sets and explore which has the highest predictive accuracy relevant to our data. Exploration between K-Nearest Neighbours vs Logistic regression.
+
 **Project Plan:**
+
 Milestone 1 - Week 9: 
+
     - Complete data preparation and cleaning
     - Analysis of appropriate variables to be used 
     - Joining of datasets
@@ -43,9 +46,11 @@ Milestone 1 - Week 9:
     - Initial exploring of the data
     
 Milestone 2 - Week 11: 
+
     - Begin model building and analysis
     
 Milestone 3 - Week 12: 
+
     - Finalise tests and run model
     - Evaluate model
     - Final analysis 
