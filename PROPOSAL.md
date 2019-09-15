@@ -18,14 +18,14 @@ In our project, we hope to answer the following:
 **Datasets:**
 The datasets that we are planning to use include: 
 
-    - IMDB dataset - 28 variables and 5043 movies
+    - [IMDB dataset](https://data.world/popculture/imdb-5000-movie-dataset) - 28 variables and 5043 movies
         .csv format
-    - Movie Budgets and Box Office Earnings (Up to Autumn 2018) - 6 variables and 5222 movies
+    - [Movie Budgets and Box Office Earnings (Up to Autumn 2018)](https://www.statcrunch.com/app/index.php?dataid=2188684) - 6 variables and 5222 movies
       This dataset will need to be manually copied into a .csv file
-    - Movie revenue dataset  (up until 2017) - includes information about production companies and film popularity
-        .csv file is available here however it is formatted poorly with all variables in one column. 
-        For more recent data an API key will need to be retrieved from The Movie Database. Data is in JSON format and will need to be converted to .csv format.
-    - IMDbPY - although not a dataset, this Python package can be used to retrieve film data directly from the Internet Movie Database (IMDB) website. 
+    - [Movie revenue dataset  (up until 2017)](https://developers.themoviedb.org/3/movies/get-movie-details) - includes information about production companies and film popularity
+        .csv file is available [here](https://zenodo.org/record/1240586#.XX3dCy17FsO_ however it is formatted poorly with all variables in one column. 
+        For more recent data an API key will need to be retrieved from [The Movie Database](https://developers.themoviedb.org/3/movies/get-movie-details). Data is in JSON format and will need to be converted to .csv format.
+    - [IMDbPY](https://imdbpy.github.io) - although not a dataset, this Python package can be used to retrieve film data directly from the Internet Movie Database (IMDB) website. 
     
 As we are using multiple datasets we will need to first clean the data. Cleaning will involve using movies that are consistent among each dataset to ensure completeness of the final dataset. This will also involve determining the time frame bounds of the data based on the year the movie was released. 
 
