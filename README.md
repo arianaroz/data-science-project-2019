@@ -7,8 +7,11 @@ COMP257/ITEC657 Group Project
 <br>
 **Project Title:** The Economics of Film
 <br> 
+<br>
 **Dataset Transformation Notes:**
+<br>
 The datasets that we used for our analysis are: 
+<br>
 
 - [IMDB dataset](https://data.world/popculture/imdb-5000-movie-dataset) 
         - we did not need to make any mofifications to this data set before importing into the notebook
